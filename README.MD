@@ -1,6 +1,6 @@
 <br />
 
-### Hi there, I'm Jhon Garcia AKA Lostbxi 👋
+### Hi there, I'm Jhon Garcia alias Lostbxi 👋
 
 <br />
 
