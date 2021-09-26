@@ -1,6 +1,6 @@
 <br />
 
-## Hi there, I'm Jhon Garcia alias Lostbxi and Im a frontend developer 👋
+## Hi there, I'm Jhon Garcia alias Lostbxi <br/> and Im a frontend developer 👋
 
 <br />
 
