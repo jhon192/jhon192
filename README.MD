@@ -49,3 +49,20 @@
 
 <img alt="Jhon Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhon192&show_icons=true&hide_border=true&theme=calm" />
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=gotham" />
+
+<div style="display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  grid-template-rows: 1fr 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    ". ."
+    ". .";">
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=
+weather-location&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=rickandmorty&cache_seconds=86400&theme=vue-dark" />
+</div>
+
+
+
