@@ -59,8 +59,7 @@
     ". .";">
  <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=vue-dark" />
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=vue-dark" />
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=
-weather-location&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=vue-dark" />
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=rickandmorty&cache_seconds=86400&theme=vue-dark" />
 </div>
 
