@@ -12,7 +12,6 @@
 - 🏋️ Fun fact: I love to read, do workout and play music.
 
 <br />
-<br />
 
 ## 👨‍💻 My Skills, Languages and Tools:
 
