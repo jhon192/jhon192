@@ -57,17 +57,17 @@
     ". ."
     ". .";">
  <a href="https://github.com/jhon192/moviesearch" alt="Gmail">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=gotham" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=vue" />
 <a href="https://github.com/jhon192/webScraping" alt="Gmail">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=gotham" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=vue" />
 <a href="https://github.com/jhon192/weather-location" alt="Gmail">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=gotham" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=vue" />
  <a href="https://github.com/jhon192/design-pattern-ts" alt="Gmail">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=design-pattern-ts&cache_seconds=86400&theme=gotham" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=design-pattern-ts&cache_seconds=86400&theme=vue" />
  <a href="https://github.com/jhon192/RestApi-crud" alt="Gmail">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=RestApi-crud&cache_seconds=86400&theme=gotham" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=RestApi-crud&cache_seconds=86400&theme=vue" />
 <a href="https://github.com/jhon192/POO-TS" alt="Gmail">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=POO-TS&cache_seconds=86400&theme=gotham" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=POO-TS&cache_seconds=86400&theme=vue" />
 </div>
 
 
