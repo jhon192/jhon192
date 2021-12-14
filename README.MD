@@ -13,7 +13,7 @@
 
 <br />
 
-## 👨‍💻 My Skills, Languages and Tools:
+### 👨‍💻 My Skills, Languages and Tools:
 
 <div style="display: flex; justify-content: center">
 <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-## Connect with me:
+### Connect with me:
 
 <a href="https://github.com/jhon192/"><img height="30" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Jhon | Gh" /></a>
 <a href="https://twitter.com/lostboy_dy" alt="Twiter"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jhon | Twitter" /></a>
