@@ -10,6 +10,7 @@
 - 🔥 I’m looking to collaborate with devs and I’m currently working on other projects.
 - 🌀 2021 Goals: Improve more and more in the world of web development
 - 🏋️ Fun fact: I love to read, do workout and play music.
+- 💻 I'm gonna be a full stack developer so let me give you a little time 
 
 <br />
 
