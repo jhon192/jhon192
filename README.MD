@@ -23,6 +23,8 @@
  <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img height="30" src="https://img.shields.io/badge/TypeScript-4d4dff?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+ <img height="30" src="https://img.shields.io/badge/Php-751aff?style=for-the-badge&logo=php&logoColor=ffffff" alt="php"/>
+  <img height="30" src="https://img.shields.io/badge/Laravel-ff3333?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="laravel"/>
  <img height="30" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6666ff" alt="python"/>
  <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js"/>
  <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
