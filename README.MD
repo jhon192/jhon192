@@ -25,7 +25,6 @@
     ". . . ."
     ". . . ."
     ". . . ."; 
- 
 ">
  <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
  <img height="30" src="https://img.shields.io/badge/vs%20code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="vscode" />
@@ -33,16 +32,16 @@
  <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
  <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img height="30" src="https://img.shields.io/badge/TypeScript-4d4dff?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+ <img height="30" src="https://img.shields.io/badge/TypeScript-4d4dff?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
  <img height="30" src="https://img.shields.io/badge/Php-751aff?style=for-the-badge&logo=php&logoColor=ffffff" alt="php"/>
-  <img height="30" src="https://img.shields.io/badge/Laravel-ff3333?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="laravel"/>
+ <img height="30" src="https://img.shields.io/badge/Laravel-ff3333?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="laravel"/>
  <img height="30" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6666ff" alt="python"/>
  <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js"/>
  <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
  <img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
  <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
  <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img height="30" src="https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=ffff00" alt="firebase"/>
+ <img height="30" src="https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=ffff00" alt="firebase"/>
  </div>
 
 <br />
