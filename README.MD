@@ -40,6 +40,7 @@
  <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
  <img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
  <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img height="30" src="https://img.shields.io/badge/Oracle-ff1a1a?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
  <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
  <img height="30" src="https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=ffff00" alt="firebase"/>
  </div>
