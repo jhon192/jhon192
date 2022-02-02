@@ -84,18 +84,18 @@
   grid-template-areas: 
     ". ."
     ". .";">
- <a href="https://github.com/jhon192/moviesearch" alt="Gmail">
+ <a href="https://github.com/jhon192/moviesearch" alt="tags">
  <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=vue-dark" />
-<a href="https://github.com/jhon192/webScraping" alt="Gmail">
+<a href="https://github.com/jhon192/webScraping" alt="tags">
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=vue-dark" />
-<a href="https://github.com/jhon192/weather-location" alt="Gmail">
+<a href="https://github.com/jhon192/weather-location" alt="tags">
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=vue-dark" />
- <a href="https://github.com/jhon192/design-pattern-ts" alt="Gmail">
+ <a href="https://github.com/jhon192/design-pattern-ts" alt="tags">
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=design-pattern-ts&cache_seconds=86400&theme=vue-dark" />
- <a href="https://github.com/jhon192/RestApi-crud" alt="Gmail">
+ <a href="https://github.com/jhon192/2048-project" alt="tags">
  <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=RestApi-crud&cache_seconds=86400&theme=vue-dark" />
-<a href="https://github.com/jhon192/schedule-ts" alt="Gmail">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=vue-dark" />
+<a href="https://github.com/jhon192/schedule-ts" alt="tags">
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=2048-project&cache_seconds=86400&theme=vue-dark" />
 </div>
 
 
