@@ -93,9 +93,9 @@
  <a href="https://github.com/jhon192/design-pattern-ts" alt="tags">
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=design-pattern-ts&cache_seconds=86400&theme=vue-dark" />
  <a href="https://github.com/jhon192/2048-project" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=RestApi-crud&cache_seconds=86400&theme=vue-dark" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=2048-project&cache_seconds=86400&theme=vue-dark" />
 <a href="https://github.com/jhon192/schedule-ts" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=2048-project&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=vue-dark" />
 </div>
 
 
