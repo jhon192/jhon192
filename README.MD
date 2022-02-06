@@ -60,7 +60,6 @@
  </div>
 
 <br />
-<br />
 
 ### Connect with me:
 
