@@ -11,7 +11,7 @@
 - 🔥 I’m looking to collaborate with devs and I’m currently working on other projects.
 - 🌀 2021 Goals: Improve more and more in the world of web development
 - 🏋️ Fun fact: I love to read, do workout and play music.
-- 💻 I'm gonna be a full stack developer so let me give you a little time 
+- 💻 Sometimes i'm a backend dev but i love to be a frontend dev
 
 <br />
 
@@ -73,8 +73,8 @@
 
 ### 💻 Resume Stats and Languages
 
-<img alt="Jhon Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhon192&show_icons=true&hide_border=true&theme=vue-dark&hide=issues&show_icons=true&include_all_commits=true" />
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=vue" />
+<img alt="Jhon Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhon192&show_icons=true&hide_border=true&theme=moltack&hide=issues&show_icons=true&include_all_commits=true" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=moltack" />
 
 <div style="display: grid; 
   grid-template-columns: 1fr 1fr; 
@@ -84,17 +84,17 @@
     ". ."
     ". .";">
  <a href="https://github.com/jhon192/moviesearch" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=vue-dark" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=moviesearch&cache_seconds=86400&theme=moltack" />
 <a href="https://github.com/jhon192/webScraping" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webScraping&cache_seconds=86400&theme=moltack" />
 <a href="https://github.com/jhon192/weather-location" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=moltack" />
  <a href="https://github.com/jhon192/design-pattern-ts" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=design-pattern-ts&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=design-pattern-ts&cache_seconds=86400&theme=moltack" />
  <a href="https://github.com/jhon192/2048-project" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=2048-project&cache_seconds=86400&theme=vue-dark" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=2048-project&cache_seconds=86400&theme=moltack" />
 <a href="https://github.com/jhon192/schedule-ts" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=vue-dark" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=moltack" />
 </div>
 
 
