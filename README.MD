@@ -7,7 +7,7 @@
 
 ### I'm a Developer and i love it programming, coffee and code it
 
-- 🌱 I’m currently learning everything about web development exactly mobile development.
+- 🌱 I’m currently learning everything about in the mobile development.
 - 🔥 I’m looking to collaborate with devs and I’m currently working on other projects.
 - 🌀 2021 Goals: Improve more and more in the world of web development
 - 🏋️ Fun fact: I love to read, do workout and play music.
