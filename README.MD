@@ -68,6 +68,8 @@
 <a href="https://www.linkedin.com/in/jhon-emanuel-garcia-martinez-00582b213/" alt="LinkedIn"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jhon Garcia | Linkedin" /></a>
 <a href="mailto:jjjjhon19@gmail.com" alt="Gmail">
 <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.codewars.com/users/jhon192" alt="Codewars">
+<img height="30" src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=E34F26" /></a>
 
 <br />
 
