@@ -30,7 +30,8 @@
  
  #### Tools
  
- <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+ <img height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Linux" />
+  <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft" />
  <img height="30" src="https://img.shields.io/badge/vs%20code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue" alt="vscode" />
  <img height="30" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red" alt="git" />
  
@@ -43,12 +44,14 @@
  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
  <img height="30" src="https://img.shields.io/badge/TypeScript-4d4dff?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js"/>
+ <img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
  <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
   <img height="30" src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="nextjs"/>
  <img height="30" src="https://img.shields.io/badge/Php-751aff?style=for-the-badge&logo=php&logoColor=ffffff" alt="php"/>
  <img height="30" src="https://img.shields.io/badge/Laravel-ff3333?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="laravel"/>
  <img height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
  <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
+ <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
 
  
  #### Databases
@@ -77,6 +80,7 @@
 
 <img alt="Jhon Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhon192&show_icons=true&hide_border=true&theme=buefy&hide=issues&show_icons=true&include_all_commits=true" />
 <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=buefy" />
+<img alt="Contribution's" src="https://github-readme-streak-stats.herokuapp.com/?user=jhon192" />
 
 <div style="display: grid; 
   grid-template-columns: 1fr 1fr; 
