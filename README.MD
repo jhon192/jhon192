@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning everything about in the mobile development.
 - 🔥 I’m looking to collaborate with devs and I’m currently working on other projects.
-- 🌀 2021 Goals: Improve more and more in the world of web development
-- 🏋️ Fun fact: I love to read, do workout and play music.
-- 💻 Sometimes i'm a backend dev but i love to be a frontend dev
+- 🌀 2022 Goals: Improve more and more in the world of web development and get a new jobs like Frontend Dev
+- 🏋️ Fun fact: I love to read, do workout, creating new things, features and better functionality for my projects and cv
+- 💻 Sometimes im doing fullstack paper but im a frontend dev fr lmao
 
 <br />
 
