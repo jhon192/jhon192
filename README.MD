@@ -28,13 +28,16 @@
     ". . . ."; 
 ">
  
+ #### OS
+  <img height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Linux" />
+  <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft" />
+ 
  #### Tools
  
- <img height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Linux" />
-  <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft" />
  <img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
   <img height="30" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" />
  <img height="30" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red" alt="git" />
+ <img height="30" src="https://img.shields.io/badge/Azure Devops-black?style=for-the-badge&logo=azure-devops&logoColor=blue" alt="git" />
  
  #### Languages and frameworks
  
