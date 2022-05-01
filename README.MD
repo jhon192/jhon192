@@ -1,7 +1,7 @@
 
 <br />
 
-### Hi there, I'm Jhon Garcia <br/> and Im a frontend developer 👋
+### Hi there, I'm Jhon Garcia <br/> and Im a Fullstack developer 👋
 
 <br />
 
