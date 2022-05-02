@@ -5,7 +5,7 @@
 
 <br />
 
-### I'm a Developer and i love it programming, coffee and code it
+### I'm a developer and I always try to improve myself.
 
 - 🌱 I’m currently learning everything about in the mobile development.
 - 🔥 I’m looking to collaborate with devs and I’m currently working on other projects.
