@@ -60,10 +60,11 @@
  
  #### Databases
  
- <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img height="30" src="https://img.shields.io/badge/Oracle-ff1a1a?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
- <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+ <img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+ <img height="30" src="https://img.shields.io/badge/Oracle-ff1a1a?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
  <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="posgresql"/>
+ <img height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/>
+ <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
  <img height="30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
  </div>
 
