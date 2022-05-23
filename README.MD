@@ -85,7 +85,7 @@
 ### 💻 Resume Stats and Languages
 
 <img alt="Jhon Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhon192&show_icons=true&hide_border=true&theme=buefy&hide=issues&show_icons=true&include_all_commits=true" />
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=chartreuse-buefy&langs_count=8" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=vue&langs_count=10" />
 <img alt="Contribution's" src="https://github-readme-streak-stats.herokuapp.com/?user=jhon192" />
 
 <div style="display: grid; 
