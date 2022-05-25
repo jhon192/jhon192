@@ -51,6 +51,7 @@
  <img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
  <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
   <img height="30" src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="nextjs"/>
+   <img height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
  <img height="30" src="https://img.shields.io/badge/Php-751aff?style=for-the-badge&logo=php&logoColor=ffffff" alt="php"/>
  <img height="30" src="https://img.shields.io/badge/Laravel-ff3333?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="laravel"/>
  <img height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
