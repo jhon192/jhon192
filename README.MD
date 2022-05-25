@@ -97,17 +97,17 @@
     ". ."
     ". .";">
  <a href="https://github.com/jhon192/vue-covid19-statistics" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=vue-covid19-statistics&cache_seconds=86400&theme=moltack" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=vue-covid19-statistics&cache_seconds=86400&theme=dark" />
 <a href="https://github.com/jhon192/webscraping-google-translate" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webscraping-google-translate&cache_seconds=86400&theme=moltack" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webscraping-google-translate&cache_seconds=86400&theme=dark" />
 <a href="https://github.com/jhon192/weather-location" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=moltack" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=dark" />
  <a href="https://github.com/jhon192/personal-briefcase" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=personal-briefcase&cache_seconds=86400&theme=moltack" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=personal-briefcase&cache_seconds=86400&theme=dark" />
  <a href="https://github.com/jhon192/restapi-postgres" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=restapi-postgres&cache_seconds=86400&theme=moltack" />
+ <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=restapi-postgres&cache_seconds=86400&theme=dark" />
 <a href="https://github.com/jhon192/schedule-ts" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=moltack" />
+<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=dark" />
 </div>
 
 
