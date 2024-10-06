@@ -1,11 +1,11 @@
 
 <br />
 
-### Hi there, I'm Jhon Garcia <br/> and Im a Fullstack developer 👋
+### Hi there, I'm Jhon Garcia 👋
 
 <br />
 
-### I'm a developer and I always try to improve myself.
+## I'm a passionate developer that it's always wanna be better than yesterday
 
 - 💻 Web + DevOps + Coffee = it's me 
 
