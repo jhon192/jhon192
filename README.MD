@@ -7,11 +7,7 @@
 
 ### I'm a developer and I always try to improve myself.
 
-- 🌱 I’m currently learning everything about in the mobile development.
-- 🔥 I’m looking to collaborate with devs and I’m currently working on other projects.
-- 🌀 2022 Goals: Improve more and more in the world of web development and get a new jobs like Frontend Dev
-- 🏋️ Fun fact: I love to read, do workout, creating new things, features and better functionality for my projects and cv
-- 💻 Sometimes im doing fullstack paper but im a frontend dev fr lmao
+- 💻 Web + DevOps + Coffee = it's me 
 
 <br />
 
