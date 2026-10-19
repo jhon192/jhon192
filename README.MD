@@ -1,110 +1,80 @@
-
-<br />
-
-### Hi there, I'm Jhon Garcia 👋
-
-<br />
-
-## I'm a passionate developer that it's always wanna be better than yesterday
-
-- 💻 Web + DevOps + Coffee = it's me 
-
-<br />
-
-### 👨‍💻 My Skills, Languages and Tools:
-
- <div style="display: grid; 
-  grid-template-columns: 1fr 1fr 1fr 1fr; 
-  grid-template-rows: 1fr 1fr 1fr 1fr; 
-  gap: 0px 0px; 
-  grid-template-areas: 
-    ". . . ."
-    ". . . ."
-    ". . . ."
-    ". . . ."; 
-">
- 
- #### OS
-  <img height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Linux" />
-  <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft" />
- 
- #### Tools
- 
- <img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
-  <img height="30" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" />
- <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
- <img height="30" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure-devops" />
- 
- #### Languages and frameworks
- 
- <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
- <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-  <img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img height="30" src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
- <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
- <img height="30" src="https://img.shields.io/badge/TypeScript-4d4dff?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js"/>
- <img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
- <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/>
-  <img height="30" src="https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="nextjs"/>
-   <img height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
- <img height="30" src="https://img.shields.io/badge/Php-751aff?style=for-the-badge&logo=php&logoColor=ffffff" alt="php"/>
- <img height="30" src="https://img.shields.io/badge/Laravel-ff3333?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="laravel"/>
- <img height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
- <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
- <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-
- 
- #### Databases
- 
- <img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
- <img height="30" src="https://img.shields.io/badge/Oracle-ff1a1a?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
- <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="posgresql"/>
- <img height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql server"/>
- <img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
- <img height="30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
- </div>
-
-<br />
-
-### Connect with me:
-
-<a href="https://github.com/jhon192/"><img height="30" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Jhon | Gh" /></a>
-<a href="https://twitter.com/L0stbxi" alt="Twiter"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jhon | Twitter" /></a>
-<a href="https://www.linkedin.com/in/jhon-emanuel-garcia-martinez-00582b213/" alt="LinkedIn"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jhon Garcia | Linkedin" /></a>
-<a href="mailto:jjjjhon19@gmail.com" alt="Gmail">
-<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.codewars.com/users/jhon192" alt="Codewars">
-<img height="30" src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=E34F26" /></a>
-
-<br />
-
-### 💻 Resume Stats and Languages
-
-<img alt="Jhon Garcia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhon192&show_icons=true&hide_border=true&theme=buefy&hide=issues&show_icons=true&include_all_commits=true" />
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon192&layout=compact&theme=vue&langs_count=10" />
-<img alt="Contribution's" src="https://github-readme-streak-stats.herokuapp.com/?user=jhon192" />
-
-<div style="display: grid; 
-  grid-template-columns: 1fr 1fr; 
-  grid-template-rows: 1fr 1fr; 
-  gap: 0px 0px; 
-  grid-template-areas: 
-    ". ."
-    ". .";">
- <a href="https://github.com/jhon192/vue-covid19-statistics" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=vue-covid19-statistics&cache_seconds=86400&theme=dark" />
-<a href="https://github.com/jhon192/webscraping-google-translate" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=webscraping-google-translate&cache_seconds=86400&theme=dark" />
-<a href="https://github.com/jhon192/weather-location" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=weather-location&cache_seconds=86400&theme=dark" />
- <a href="https://github.com/jhon192/personal-briefcase" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=personal-briefcase&cache_seconds=86400&theme=dark" />
- <a href="https://github.com/jhon192/restapi-postgres" alt="tags">
- <img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=restapi-postgres&cache_seconds=86400&theme=dark" />
-<a href="https://github.com/jhon192/schedule-ts" alt="tags">
-<img alt="Jhon Garcia Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=jhon192&repo=schedule-ts&cache_seconds=86400&theme=dark" />
+<div align="center">
+  <h1>Hi, I'm Jhon E. García M. 👋</h1>
+  <h3>Solutions Architect · Cloud Engineer · Technical Leader</h3>
+  <p><strong>Designing secure, scalable, and cost-efficient cloud-native systems.</strong></p>
+  <p>📍 Santo Domingo, Dominican Republic</p>
+  <p>
+    <a href="https://github.com/jhon192"><img src="https://img.shields.io/badge/GitHub-@jhon192-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub @jhon192" /></a>
+    <a href="https://www.linkedin.com/in/jhon-emanuel-garcia-martinez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://jhon-garcia-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0B7285?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:jhon19.2@outlook.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-444444?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
+👨‍💻 About me
+I'm a Solutions Architect and Cloud Engineer with 6+ years of experience designing secure, reliable, and scalable enterprise solutions. I specialize in AWS, Azure, cloud-native architecture, DevOps, and infrastructure automation, bridging business goals with pragmatic technical decisions.
+- ☁️ Current focus: Cloud architecture assessments, IT auditing, security, and governance across AWS and Azure.
+- 🏗️ Architecture: Microservices, serverless, event-driven systems, domain-driven design (DDD), CQRS, and API-first design.
+- 🔐 Engineering priorities: Security by design, reliability, observability, compliance, and cost optimization.
+- 🤝 Consulting: Helping startups and SMBs modernize platforms, plan migrations, and adopt cloud-native architectures.
+🏅 Certifications
+<div align="center">
+
+<!-- These images represent credential types, not personal verification links. -->
+
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="AWS Certified Cloud Practitioner">
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="118" alt="AWS Certified Cloud Practitioner badge" />
+</a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" title="Microsoft Certified: Azure Fundamentals (AZ-900)">
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" width="118" alt="Microsoft Azure Fundamentals badge" />
+</a>
+<a href="https://www.comptia.org/certifications/cybersecurity-analyst" title="CompTIA Cybersecurity Analyst (CySA+)">
+  <img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" width="118" alt="CompTIA CySA+ badge" />
+</a>
+<a href="https://www.credly.com/org/cisco/badge/ethical-hacker" title="Cisco Ethical Hacker">
+  <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="118" alt="Cisco Ethical Hacker badge" />
+</a>
+<a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-professional-certification-sfpc.1" title="Scrum Foundation Professional Certification (SFPC)">
+  <img src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" width="118" alt="CertiProf Scrum Foundation Professional Certification badge" />
+</a>
+
+</div>
+
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- Microsoft Certified: Azure Fundamentals (AZ-900) — Microsoft
+- CompTIA Cybersecurity Analyst (CySA+) — CompTIA
+- Ethical Hacker — Cisco
+- Scrum Foundation Professional Certification (SFPC) — CertiProf
+Currently pursuing: AWS Certified Solutions Architect – Associate (in progress; not yet certified).
+📈 Selected impact
+Area	Results
+Cost optimization	Reduced infrastructure costs by 35% through architecture improvements and cloud resource right-sizing.
+Infrastructure automation	Reduced provisioning time by 70% using CloudFormation, Docker, and Ansible.
+Software delivery	Reduced deployment failures by 40% and shortened release cycles from 2 weeks to 5 days through CI/CD and DevOps practices.
+Event-driven architecture	Designed systems processing 1M+ events per day with 99.9% uptime.
+Technical leadership	Mentored a team of 6 developers and designed cloud architectures for 10+ client projects.
 
 
+🛠️ Technical toolbox
+Focus	Technologies & practices
+Cloud	AWS (EC2, S3, Lambda, ECS, EKS, RDS, DynamoDB, API Gateway, EventBridge), Azure (VMs, Functions, AKS, Cosmos DB)
+DevOps & IaC	Terraform, Ansible, CloudFormation, AWS CDK, Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD
+Backend	Python (FastAPI, Django), Node.js, TypeScript, Go, Rust, C#/.NET, PHP/Laravel
+Data & messaging	PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, SQL Server, Elasticsearch, Kafka, RabbitMQ, AWS SNS/SQS
+Architecture & APIs	Microservices, serverless, event-driven architecture, DDD, CQRS, REST, GraphQL, OpenAPI, API-first design
+Security & observability	IAM, VPC, WAF, zero-trust principles, SOC 2, ISO 27001, CloudWatch, Datadog, Prometheus, Grafana, ELK Stack
+
+
+💼 Professional experience
+- IT Auditor / Cloud Architecture Specialist (May 2026–present)
+  Cloud architecture assessments, security and compliance reviews, governance, and automation across AWS and Azure.
+- Solutions Architect / Cloud Consultant (Dec 2020–present)
+  Cloud-native architecture, serverless solutions, modernization roadmaps, and DevOps automation for startups and SMBs.
+- Technical Architect / Team Lead (Jun 2024–Apr 2025)
+  Technical strategy, AWS infrastructure, scalable microservices, CI/CD improvements, and developer mentorship.
+- Senior Software Engineer / Cloud Architect (Jun 2022–Jun 2024)
+  Cloud architecture for client projects, multi-tenant SaaS, API-first integration, and infrastructure automation.
+🤝 Let's connect
+I'm always interested in conversations about cloud architecture, platform engineering, software modernization, and secure distributed systems.
+
+📩 Email me · 💼 LinkedIn · 💻 GitHub
