@@ -1,98 +1,151 @@
-<!-- GitHub Profile README: github.com/jhon192 -->
+<!-- GitHub profile README for https://github.com/jhon192 -->
+<!-- Designed to stand on its own: no website, CSS, JavaScript, or additional files required. -->
 
 <div align="center">
 
-Hi, I'm Jhon García 👋
-Solutions Architect · Cloud Engineer · Technical Leader
-Designing secure, scalable, and cost-efficient cloud-native systems.
+<h1>Jhon E. Garc&iacute;a M.</h1>
+
+<h3>Solutions Architect &nbsp;|&nbsp; Cloud Engineer &nbsp;|&nbsp; Technical Leader</h3>
+
+<p><strong>Designing cloud systems that scale. Engineering for security, reliability, and real business impact.</strong></p>
+
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="Cloud Architecture" src="https://img.shields.io/badge/Cloud_Architecture-134E5E?style=flat-square" />
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-303F57?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/6%2B%20Years-Experience-203147?style=flat-square" alt="6+ years of experience" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-087E8B?style=flat-square" alt="Focus: Cloud Architecture" />
+  <img src="https://img.shields.io/badge/Location-Dominican%20Republic-203147?style=flat-square" alt="Dominican Republic" />
 </p>
 
-<a href="https://jhon192.github.io/jhon192/">
-  <img alt="Explore my interactive portfolio" src="https://img.shields.io/badge/🌐_EXPLORE_MY_INTERACTIVE_PORTFOLIO-087F8C?style=for-the-badge" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/jhon-emanuel-garcia-martinez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:jhon19.2@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-334155?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Send an email" />
+  </a>
+  <a href="https://github.com/jhon192?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20code-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub repositories" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### About me
+
+I'm a **Solutions Architect and Cloud Engineer with 6+ years of experience** creating secure, scalable and cost-efficient solutions across **AWS and Azure**. My work brings together **cloud-native architecture, distributed systems, DevOps and security** - from technical strategy and architectural governance to hands-on implementation.
+
+I enjoy turning complex requirements into clear architecture decisions, helping teams deliver systems that are easier to operate, evolve and scale.
+
+### Selected impact
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h2>35% &#8595;</h2>
+      <strong>Cloud infrastructure costs</strong><br/>
+      Reduced through architecture optimization and right-sizing
+    </td>
+    <td width="50%" align="center">
+      <h2>70% &#8595;</h2>
+      <strong>Infrastructure provisioning time</strong><br/>
+      Reduced through automation and infrastructure as code
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h2>1M+</h2>
+      <strong>Events processed daily</strong><br/>
+      Event-driven architecture with 99.9% uptime
+    </td>
+    <td width="50%" align="center">
+      <h2>40% &#8595;</h2>
+      <strong>Deployment failures</strong><br/>
+      Reduced by improving CI/CD and delivery practices
+    </td>
+  </tr>
+</table>
+
+### What I specialize in
+
+- **Cloud architecture & governance:** AWS/Azure architecture, modernization, security reviews, technical roadmaps and architecture decision records (ADRs).
+- **Distributed & cloud-native systems:** Microservices, serverless, event-driven patterns, API-first integration and multi-tenant SaaS.
+- **Platform engineering:** Infrastructure as code, container orchestration, CI/CD, GitOps, observability and high availability.
+- **Technical leadership:** Design reviews, architectural standards, cross-functional collaboration and mentoring engineers.
+
+### My architecture mindset
+
+```mermaid
+flowchart LR
+    A[Business goals] --> B[Architecture decisions]
+    B --> C[Microservices & APIs]
+    B --> D[Serverless & events]
+    C --> E[Cloud platform & IaC]
+    D --> E
+    E --> F[Secure, observable systems]
+```
+
+### Technology toolkit
+
+| Area | Stack |
+| :-- | :-- |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Containers & Delivery** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Data & Observability** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+
+<sub>Also experienced with AWS CDK, Ansible, Jenkins, Prometheus, Datadog, RabbitMQ, REST/GraphQL, PostgreSQL, MongoDB and cloud security controls.</sub>
+
+### Certifications
+
+<div align="center">
 
 <p>
-  <a href="https://jhon192.github.io/jhon192/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/jhon-emanuel-garcia-martinez/">LinkedIn</a> ·
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" title="AWS Certified Cloud Practitioner - program details">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="112" />
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" title="Microsoft Certified: Azure Fundamentals - program details">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" alt="Microsoft Certified Azure Fundamentals (AZ-900)" width="112" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/org/comptia/badge/comptia-cysa-ce-certification" title="CompTIA CySA+ - program details">
+    <img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CompTIA CySA+" width="112" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/org/cisco/badge/ethical-hacker" title="Cisco Ethical Hacker - program details">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Ethical Hacker" width="112" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-professional-certification-sfpc" title="Scrum Foundation Professional Certification - program details">
+    <img src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" alt="Scrum Foundation Professional Certification (SFPC)" width="112" />
+  </a>
+</p>
+
+<strong>AWS Cloud Practitioner &nbsp;&middot;&nbsp; Azure Fundamentals &nbsp;&middot;&nbsp; CompTIA CySA+ &nbsp;&middot;&nbsp; Cisco Ethical Hacker &nbsp;&middot;&nbsp; SFPC</strong>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-IN%20PROGRESS-E5A529?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Certified Solutions Architect - Associate, in progress" />
+</p>
+
+<sub>Images link to the certification program descriptions, not personal credential verification pages.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Let's build something that lasts.</h3>
+
+Cloud architecture &nbsp;&middot;&nbsp; Reliability &nbsp;&middot;&nbsp; Security &nbsp;&middot;&nbsp; Automation
+
+<p>
+  <a href="https://www.linkedin.com/in/jhon-emanuel-garcia-martinez/">LinkedIn</a>
+  &nbsp;&bull;&nbsp;
   <a href="mailto:jhon19.2@outlook.com">Email</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://github.com/jhon192?tab=repositories">Repositories</a>
 </p>
 
-</div>
-
-👨‍💻 About Me
-I'm a Solutions Architect & Cloud Engineer with 6+ years of experience, focused on connecting business goals with resilient technical solutions. I work across AWS, Azure, microservices, serverless applications, event-driven systems, and infrastructure as code, with a strong emphasis on security, automation, and scalability.
-📈 Selected Impact
-<table>
-  <tr>
-    <td align="center" width="50%"><strong>35%</strong><br/><sub>Cloud infrastructure cost reduction</sub></td>
-    <td align="center" width="50%"><strong>70%</strong><br/><sub>Less time spent on infrastructure provisioning</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><strong>1M+</strong><br/><sub>Events processed daily · 99.9% uptime</sub></td>
-    <td align="center" width="50%"><strong>40%</strong><br/><sub>Reduction in deployment failures</sub></td>
-  </tr>
-</table>
-
-🛠️ Core Technologies
-<div align="center">
-  <p>
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  </p>
-</div>
-
-Architecture: Microservices · Serverless · Event-driven architecture · DDD · API-first design
-
-Engineering: Infrastructure as code · CI/CD · Cloud security · Observability · Distributed systems
-🏅 Certifications
-<table>
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="82" alt="AWS Certified Cloud Practitioner badge" /></a><br/>
-      <sub><b>AWS Cloud<br/>Practitioner</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" width="82" alt="Microsoft Azure Fundamentals AZ-900 badge" /></a><br/>
-      <sub><b>Azure<br/>Fundamentals</b><br/>AZ-900</sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://www.comptia.org/certifications/cybersecurity-analyst"><img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" width="82" alt="CompTIA CySA+ badge" /></a><br/>
-      <sub><b>CompTIA<br/>CySA+</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://www.credly.com/org/cisco/badge/ethical-hacker"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="82" alt="Cisco Ethical Hacker badge" /></a><br/>
-      <sub><b>Cisco Ethical<br/>Hacker</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-professional-certification-sfpc"><img src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" width="82" alt="Scrum Foundation Professional SFPC badge" /></a><br/>
-      <sub><b>Scrum<br/>Foundation</b><br/>SFPC</sub>
-    </td>
-  </tr>
-</table>
-
-📚 Currently pursuing: AWS Certified Solutions Architect – Associate (In Progress).
-
-<sub>Certification images link to the official program pages, not individual credential-verification records.</sub>
-🚀 What I Work On
-- Cloud architecture: AWS/Azure solution design, governance, security, and modernization.
-- Cloud-native platforms: Microservices, serverless solutions, event-driven integrations, and multi-tenant SaaS.
-- Platform engineering: Terraform, containers, CI/CD automation, monitoring, and reliability.
-- Technical leadership: Architecture reviews, design decisions, technical roadmaps, and mentoring.
-<div align="center">
-
-Let's build something impactful.
-🌐 View my full interactive portfolio
-
-GitHub · LinkedIn · Email
 </div>
